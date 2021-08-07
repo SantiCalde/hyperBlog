@@ -1,12 +1,12 @@
 body
 {
         text-align: center;
-        font-family: "Arial";
-        color: black;
+        font-family: "fr";
+        color: red;
 }
 
 #cabe 
 {
         background-color: #33a;
-        color: white;
+        color: brown;
 }
