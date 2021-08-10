@@ -7,6 +7,6 @@ body
 
 #cabe 
 {
-        background-color: #33a;
+        background-color: #33a url=("../imagenes/dragon.png");
         color: brown;
 }
